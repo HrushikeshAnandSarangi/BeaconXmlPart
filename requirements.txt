@@ -1,8 +1,7 @@
 flask
-numpy
+numpy>=1.19.2,<1.21.0
 pandas
 joblib
 tensorflow
 torch
 scikit-learn
-pickle
